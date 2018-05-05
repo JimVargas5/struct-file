@@ -1,0 +1,6 @@
+Jim:bb:Vargas
+Real Analysis:MTH 411:9
+Henry:James:Vargas
+Complex Analysis:MTH471:12
+One:More:Time!
+Will:It Go?:2147483647
